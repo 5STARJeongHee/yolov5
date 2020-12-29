@@ -1,0 +1,25 @@
+[
+    {
+        "name": "fire",
+        "color": "#ff6037",
+        "attributes": []
+    },
+    {
+        "name": "smoke",
+        "color": "#c626e7",
+        "attributes": []
+    },
+    {
+        "name": "person",
+        "color": "#3df53d",
+        "attributes": []
+    },
+    {
+        "name": "origin",  
+        "color": "#31253d",
+        "attributes": []
+    }
+]
+
+
+Day/People/Smoke - Segmentation
